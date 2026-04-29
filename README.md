@@ -27,7 +27,7 @@ Layers:
 RAW: unprocessed transaction data
 CLEAN: cleaned and standardized dataset
 MART: aggregated tables for analytics
-📂 Project Structure
+Project Structure
 project/
 ├── data/
 │   └── transactions.csv
@@ -219,7 +219,8 @@ understanding customer behavior
 identifying top-performing categories
 tracking revenue trends
 detecting anomalies and fraud patterns
-📌 Notes
+
+Notes
 
 This project focuses on SQL and data processing logic rather than machine learning or visualization tools.
 It reflects typical entry-level data engineering and BI tasks.
